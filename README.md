@@ -1,4 +1,4 @@
-# Python_Project_1_Football_Transfers
+# Transfer Tracker: Football Data Insights
 # INTRODUCTION
 
 <br />Football Transfers was analysed in order to practise ***Python Data Analysis libraries*** and _find out about how much money clubs from all over the globe spend for players_
@@ -6,8 +6,7 @@
 # ANALYSIS
 
 <br />To analyze and visualise data, _Python Data Analysis libraries_ were used (***NumPy, Pandas, matplotlib & seaborn***)
-<br />All steps with detailed information is also described in [Python Project 1 Football Transfers.ipynb](https://github.com/Longwinter93/Python_Data_Analysis_Libraries_Projects/blob/main/Python_Project_1_Football_Transfers/Python%20Project%201%20Football%20Transfers.ipynb)
-
+<br />All steps with detailed information is also described in [Transfer Tracker: Football Data Insights.ipynb](https://github.com/Sumitkumar005/Data-Analysis-Projects)
 # MAIN CONCLUSIONS
 
 <br />1. Most Players, were transferred, are between 30-35 Age
