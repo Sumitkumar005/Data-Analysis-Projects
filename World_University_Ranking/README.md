@@ -1,4 +1,4 @@
-# Python_Project_4_World_University_Ranking
+# World_University_Ranking
 # INTRODUCTION
 
 <br />World University Ranking was analysed in order to practise ***Python Data Analysis libraries*** and _find out about the classification of the university in the world_. 
