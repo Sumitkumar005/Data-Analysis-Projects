@@ -12,8 +12,8 @@ The AI Lead Generation Agent automates the process of finding and qualifying pot
 ### How to Get Started
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_lead_generation_agent
+   git clone https://github.com/yours.git
+   
    ```
 3. **Install the required packages**:
    ```bash
