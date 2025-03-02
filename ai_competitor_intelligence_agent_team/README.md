@@ -46,8 +46,8 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-   cd ai_agent_tutorials/ai_competitors_analysis_team
+   git clone https://github.com/yours.git
+   
    ```
 
 2. **Install the dependencies**:
